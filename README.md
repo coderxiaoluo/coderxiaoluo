@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Steam-1C2838?style=flat-square&logo=steam&logoColor=white" />
 </div>
 <!--logo-->
 <div align="center">
